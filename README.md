@@ -12,7 +12,7 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/gustavoankelen-mat281_portfolio-8zf4lphl/tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GustavoAnkelen/mat281_portfolio.git/master))
 
 * __John Titor__ : [](https://www.linkedin.com/in/williamhgates/)
 
