@@ -12,7 +12,7 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GustavoAnkelen/mat281_portfolio.git/master) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GustavoAnkelen/mat281_portfolio.git/master?urlpath=lab)
 
 * __Repositorio Curso__: [GitHub](https://github.com/aLoNsolml/mat281_2019S2)
 
